@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Darlane
-- 🌱 Atualmente estou estudando Cypress, Javascript, MySql, Java
+- 🌱 Atualmente trabalho com javascript, vue 3, e vuetify
 - 📫 Você pode me encontrar no linkedin e instagram
 
 
